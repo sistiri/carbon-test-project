@@ -4,3 +4,8 @@
 @use './components/DemoHeader/demo-header.scss';
 @use './content/LandingPage/landing-page.scss';
 @use './content/DemoPage/demo-page.scss';
+
+
+body {
+    padding-top: 40px;
+  }
